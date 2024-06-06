@@ -1,6 +1,6 @@
 ## Boas vindas ao meu perfil ✨💙
 
-Meu nome é Aline Pereira Suave s
+Meu nome é Aline Pereira Suave 
 
 - Sou professora de **tecnologia**
 - Estou me aperfeiçoando na linguagem JavaScript
