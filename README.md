@@ -1,4 +1,11 @@
-## Hi there 👋
+## Boas vindas ao meu perfil ✨💙
+
+Meu nome é Aline Pereira Suave s
+
+- Sou professora de **tecnologia**
+- Estou me aperfeiçoando na linguagem JavaScript
+
+
 
 <!--
 **alinesuave/alinesuave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
